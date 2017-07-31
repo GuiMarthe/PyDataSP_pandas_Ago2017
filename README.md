@@ -17,11 +17,13 @@
 
 - Caracteristicas de uma boa pergunta
 
+- Um exemplo do epiciclo
+
 2. [Tidy data](https://en.wikipedia.org/wiki/Tidy_data)
 
 - o que é?
 - como ele pode nos ajudar
-- exemplos
+- cookbook simples
 
 3. Levando tudo para a máquina
 
